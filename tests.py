@@ -1,7 +1,7 @@
-from ISRPO_LAB4.circle import area as area_circle, perimeter as perimeter_circle
-from ISRPO_LAB4.rectangle import area as area_rectangle, perimeter as perimeter_rectangle
-from ISRPO_LAB4.triangle import area as area_triangle, perimeter as perimeter_triangle
-from ISRPO_LAB4.square import area as area_square, perimeter as perimeter_square
+from circle import area as area_circle, perimeter as perimeter_circle
+from rectangle import area as area_rectangle, perimeter as perimeter_rectangle
+from triangle import area as area_triangle, perimeter as perimeter_triangle
+from square import area as area_square, perimeter as perimeter_square
 
 import unittest
 
